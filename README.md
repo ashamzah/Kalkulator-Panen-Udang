@@ -130,6 +130,8 @@ Aplikasi ini dibuat sebagai latihan dasar Python dengan konsep:
 * Perhitungan finansial sederhana
 * Program berbasis terminal
 
+Nonton Video : https://youtu.be/_zlNngn_4-s
+
 ## Author
 
 Dibuat oleh Aris Sando Hamzah.
