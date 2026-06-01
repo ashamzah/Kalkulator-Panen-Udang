@@ -1,8 +1,10 @@
+print('''
 ###################################################
-## APLIKASI KALKULATOR PANEN UDANG V1
-## Created by AS HAMZAH
-## Blog : arissandohamzah.hantulaut.web.id
+##     APLIKASI KALKULATOR PANEN UDANG V1        ##
+##     Created by AS HAMZAH                      ##
+##     Blog : arissandohamzah.hantulaut.web.id   ##
 ###################################################
+''')
 
 dataPanen = [
     ["Panen1", 60, 93, 200, 72500], # Tipe Panen, DOC (day), Size (pcs/kg), Biomass (kg), Harga (Rp)
